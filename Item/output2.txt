@@ -1,0 +1,10 @@
+The goodies selected for distribution are:
+
+Cult Pass: 299
+Fitbit Plus: 790
+Microwave Oven: 900
+IPods: 2349
+MI Band: 9992
+Alexa: 9999
+
+And the difference between the chosen goodie with highest price and the lowest price is 9700
